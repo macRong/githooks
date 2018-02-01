@@ -1,0 +1,38 @@
+# CocoaPods
+Pods
+Podfile.lock
+
+# OS X
+.DS_Store
+.Trashes
+
+.clang-format
+*~.nib
+
+# build
+build/
+
+# xcode trash
+*.pbxuser
+*.perspective
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.xcuserdatad
+*.swp
+*.lock
+
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+#python
+*.egg
+*.egg-info
+*.pyc

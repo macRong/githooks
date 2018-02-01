@@ -1,6 +1,5 @@
 # githooks
 
----
 
 ### 安装
 `sh install.sh`
